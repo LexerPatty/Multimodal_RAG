@@ -220,12 +220,56 @@ flowchart TD
 
 ---
 
-## 📚 Use Cases
+# 📚 Example Use Cases
 
-- **Business & Financial Reports** — annual reports, KPI dashboards, quarterly filings
-- **Industrial Documents** — process diagrams, factory layouts, QC workflows
-- **Product Documents** — catalogs, spec sheets, comparison tables
-- **Enterprise Knowledge Bases** — SOPs, policies, technical docs, presentation exports
+This architecture is useful for enterprise documents such as:
+
+### 🏢 Business Reports
+
+```text
+Annual reports
+Financial reports
+Management reports
+Business reviews
+```
+
+### 💰 Financial Documents
+
+```text
+Revenue charts
+Financial tables
+KPI dashboards
+Quarterly reports
+```
+
+### 🏭 Industrial Documents
+
+```text
+Process diagrams
+Factory layouts
+Quality-control diagrams
+Technical reports
+```
+
+### 🛒 Product Documents
+
+```text
+Product catalogs
+Product images
+Specifications
+Comparison tables
+```
+
+### 📑 Enterprise Knowledge Bases
+
+```text
+Policies
+SOPs
+Technical documentation
+Internal reports
+Presentations converted to PDF
+```
+
 
 ---
 
